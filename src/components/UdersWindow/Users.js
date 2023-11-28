@@ -9,7 +9,6 @@ function Users() {
       <div className="flex flex-col gap-3">
         <UserItem />
         <UserItem />
-        <UserItem />
       </div>
     </div>
   );
