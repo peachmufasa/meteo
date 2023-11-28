@@ -10,7 +10,6 @@ function Users() {
         <UserItem />
         <UserItem />
         <UserItem />
-        <UserItem />
       </div>
     </div>
   );
